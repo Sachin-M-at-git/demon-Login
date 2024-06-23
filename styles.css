@@ -26,7 +26,7 @@ section .bg {
 
 .register {
     position: relative;
-    padding: 40px 50px;
+    padding: 40px 35px;
     background: rgba(225,225,225,0.2);
     backdrop-filter: blur(2px);
     border: 1px solid #fff;
@@ -44,7 +44,7 @@ section .bg {
     text-align: center;
     font-size: 2.5em;
     font-weight: 600;
-    color: #f8f9fa;
+    color: #fff;
     margin-bottom: 10px;
 }
 
